@@ -1,0 +1,98 @@
+[
+    {
+        "story": "I woke up early because my alarm clock malfunctioned. I missed the bus, which resulted in being late for work. My boss was unhappy, which led to a tense meeting. The meeting went well, and I felt accomplished all day.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I started my day with a hearty breakfast. Then, I went for a run in the park. After the run, I felt extremely tired, so I took a nap. I woke up feeling energetic and rejuvenated.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I was studying for my exams all night. Suddenly, I received a phone call from my friend, and I decided to go out for a movie. I aced the exam the next day.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I bought a new phone, and my car broke down the same day. I went to the mechanic and got it fixed. The phone's battery drained quickly, so I returned it.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I cooked a delicious meal for dinner. The electricity went out, so I lit candles for lighting. My neighbors came over to join the meal, and we had a great time.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I attended a job interview and felt nervous. The interview went well, and I got the job offer. I celebrated with my friends in the evening.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I went to the grocery store to buy ingredients for a recipe. While shopping, I met an old friend. We had coffee and caught up on life.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I went for a swim at the beach. Later, I realized I forgot my towel at home. I dried myself with my shirt and left feeling uncomfortable.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I was feeling unwell, so I decided to take a day off from work. I spent the day exploring a new city. I felt worse by the end of the day.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I received a gift from a friend on my birthday. I was excited and opened it, finding my favorite book inside. I spent the evening reading.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I planned a surprise party for my friend's birthday. I invited all our friends, and we had a great time. The cake accidentally fell on the floor, but we laughed it off.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I went to the gym and had an intense workout. I treated myself to ice cream afterward as a reward.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I adopted a pet dog from the shelter. We quickly bonded and became inseparable. I decided to take a trip and left my dog with a friend.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I went to the park for a picnic. It started raining suddenly, and I had to pack up quickly. I slipped and fell while running to find shelter.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I received a promotion at work. I celebrated with my colleagues by going out for dinner. I realized I left my wallet at home and had to borrow money.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I decided to learn a new language. I practiced daily and eventually became fluent. I traveled to a foreign country and struggled to communicate.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I signed up for a cooking class to improve my culinary skills. I learned new techniques and prepared a gourmet meal for my family.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I attended a concert of my favorite band. The music was electrifying, and I danced all night. I woke up the next day feeling sick and exhausted.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I decided to start a garden in my backyard. I planted various seeds and nurtured the plants daily. I harvested a bountiful crop of fresh vegetables.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I bought a lottery ticket and won a small prize. I used the money to buy more tickets and won a larger prize. I quit my job and invested all my savings in more tickets.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I adopted a new exercise routine and began losing weight. I felt healthier and more energetic. I got injured during a workout and had to take a break.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I joined a dance class to learn salsa. I practiced diligently and performed at a local event. I was so nervous that I forgot all the steps on stage.",
+        "is_causally_coherent": false
+    },
+    {
+        "story": "I volunteered at an animal shelter and helped care for rescued dogs. I adopted one of the dogs and gave it a loving home.",
+        "is_causally_coherent": true
+    },
+    {
+        "story": "I planned a surprise anniversary party for my parents. They were genuinely surprised and touched. Unfortunately, I forgot to order the cake.",
+        "is_causally_coherent": false
+    }
+]
